@@ -25,7 +25,9 @@ public final class R {
         public static final int take_pic=0x7f020001;
     }
     public static final class id {
-        public static final int action_settings=0x7f080001;
+        public static final int action_settings=0x7f080003;
+        public static final int editText1=0x7f080001;
+        public static final int editText2=0x7f080002;
         public static final int imageView1=0x7f080000;
     }
     public static final class layout {
